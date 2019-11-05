@@ -1,0 +1,4 @@
+pyinotify
+pandas
+numpy
+redis
